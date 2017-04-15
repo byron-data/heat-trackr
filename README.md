@@ -12,9 +12,8 @@ The heat-trackr plugin allows the user to display the following:
 Additionally the user can also configure and measure A/B style split testing.
 
 ## Screenshots
-
-1. heatmap.jpg
-2. clickmap.jpg
-3. scattermap.jpg
-4. piechart.jpg
-5. scrollmap.jpg
+![heatmap](/images3/heatmap.jpg)
+![clickmap](/images3/clickmap.jpg)
+![scattermap](/images3/scattermap.jpg)
+![piechart](/images3/piechart.jpg)
+![scrollmap](/images3/scrollmap.jpg)
